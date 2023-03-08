@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/wlgus98322@gmail.com-#EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
 <!--
 **xxxjihyeon/xxxjihyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
