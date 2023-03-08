@@ -5,9 +5,9 @@
 <a href="https://xxxjihyeon.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 </p>
   
-<h1>💻 SKILLS</h1>
+### 💻 SKILLS
 <p>
-<img src="https://img.shields.io/badge/JAVA-#F45E3F?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-F45E3F?style=flat-square&logo=Java&logoColor=white"/>
 </p>
 
 <!--
